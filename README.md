@@ -1,8 +1,9 @@
+````md
 <div align="center">
 
 # 👋 Hi, I'm Ahmed Ali
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=AI+Engineer;Machine+Learning+Engineer;Data+Science+Enthusiast;Computer+Science+Student;Always+Learning+New+Things" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=AI+Engineer;Machine+Learning+Engineer;Data+Science+Enthusiast;Faculty+of+Science+Student;Always+Learning+New+Things" alt="Typing SVG"/>
 
 <br>
 
@@ -16,13 +17,13 @@
 
 <img align="right" alt="Coding" width="330" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-🎓 Computer Science Student.
+🎓 Computer Science & Mathematics Student at the Faculty of Science, Aswan University.
 
-🤖 Passionate about Artificial Intelligence, Machine Learning, Deep Learning and Data Science.
+🤖 Passionate about Artificial Intelligence, Machine Learning, Deep Learning, and Data Science.
 
 💻 I enjoy building intelligent systems that solve real-world problems using Python and AI.
 
-🚀 Currently focusing on AI Agents, Machine Learning, Deep Learning, Computer Vision and NLP.
+🚀 Currently focusing on AI Agents, Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing.
 
 ## 🌱 Currently Learning
 
@@ -52,23 +53,17 @@
 
 <p align="left">
 
+<a href="mailto:ahmedhelmy53@hotmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ahmedhelmy3">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
 <a href="https://github.com/ahmedalii53">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
-
-<!-- Add your LinkedIn -->
-<!--
-<a href="https://linkedin.com/in/your-link">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
--->
-
-<!-- Add your Email -->
-<!--
-<a href="mailto:your@email.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
--->
 
 </p>
 
@@ -80,7 +75,7 @@
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js,mysql"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,mysql"/>
 
 </p>
 
@@ -112,6 +107,10 @@
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,anaconda,docker"/>
 
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+
 </p>
 
 ---
@@ -127,7 +126,7 @@ Machine Learning model that predicts whether a customer will subscribe to a bank
 - Random Forest
 - Logistic Regression
 - Decision Tree
-- SVM
+- Support Vector Machine (SVM)
 - 90% Accuracy
 
 ---
@@ -139,7 +138,7 @@ Sales analysis and prediction using Machine Learning.
 ### Highlights
 
 - Data Cleaning
-- EDA
+- Exploratory Data Analysis (EDA)
 - Feature Engineering
 - Gradient Boosting
 - R² Score: 0.99
@@ -162,9 +161,9 @@ Real-time British Sign Language Recognition using CNN.
 
 # 📚 Certificates
 
-🏆 NTI Machine Learning & Deep Learning
+🏆 NTI – Machine Learning & Deep Learning
 
-🏆 HP Life - AI
+🏆 HP LIFE – AI
 
 🏆 McKinsey Forward Program
 
@@ -235,7 +234,7 @@ Real-time British Sign Language Recognition using CNN.
 ✔ Deep Learning
 ✔ AI Agents
 ✔ Computer Vision
-✔ NLP
+✔ Natural Language Processing
 ✔ Data Science
 ✔ Model Deployment
 ✔ Python
@@ -284,3 +283,4 @@ while True:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00C2FF&height=120&section=footer"/>
 
 </div>
+````
