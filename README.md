@@ -1,4 +1,4 @@
-````md
+
 <div align="center">
 
 # 👋 Hi, I'm Ahmed Ali
@@ -272,9 +272,7 @@ while True:
     Build()
     Practice()
     Improve()
-```
 
----
 
 <div align="center">
 
