@@ -175,27 +175,7 @@ Real-time British Sign Language Recognition using CNN.
 
 ---
 
-# 📊 GitHub Analytics
 
-<table>
-<tr>
-
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ahmedalii53&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-</td>
-
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedalii53&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</td>
-
-</tr>
-</table>
-
----
 
 # 📊 GitHub Summary
 
